@@ -21,11 +21,11 @@ You can **play directly using the EXE release**, install via **setup.exe**, or *
 ## 📸 Screenshots
 
 ### 🟦 Initial Game Screen
-*(Insert screenshot here)*  
-`![Initial Game](assets/initial.png)`
+
+`![Initial Game](https://github.com/hamzza07x/Sudoku-Game-Python-Pygame/blob/main/assets/2.png)`
 
 ### 🟩 Winning Screen
-*(Insert screenshot here)*  
+*(Insert screenshot here)* 
 `![Win Screen](assets/win.png)`
 
 ---
