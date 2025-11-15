@@ -26,7 +26,7 @@ You can **play directly using the EXE release**, install via **setup.exe**, or *
 ![Initial Game](https://github.com/hamzza07x/Sudoku-Game-Python-Pygame/blob/main/assets/2.png)
 
 ### 🟩 Winning Screen
-![Win Screen](assets/win.png)
+![Win Screen](https://github.com/hamzza07x/Sudoku-Game-Python-Pygame/blob/main/assets/1.png)
 
 ---
 
