@@ -20,8 +20,6 @@ You can **play directly using the EXE release**, install via **setup.exe**, or *
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🟦 Initial Game Screen
 ![Initial Game](https://github.com/hamzza07x/Sudoku-Game-Python-Pygame/blob/main/assets/2.png)
 
